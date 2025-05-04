@@ -43,7 +43,6 @@ const Home = () => {
           <div className="info-icon">🎟️</div>
           <h3>Entry</h3>
           <p>Free for students</p>
-          <p>100rs for visitors</p>
         </div>
       </div>
 
